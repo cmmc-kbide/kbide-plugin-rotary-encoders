@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-rotary-encoders",
+  "title": "rotary-encoders",
+  "keywords": "rotary-encoders, esp32, esp8266, arduino",
+  "description": "rotary-encoders plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-rotary-encoders/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-rotary-encoders/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
